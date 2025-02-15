@@ -1,7 +1,4 @@
-Here’s a `README.md` file for your Recipe Finder application:
-
-```md
-# 🍽️ Recipe Finder
+ # 🍽️ Recipe Finder
 
 ## 📌 Overview
 Recipe Finder is a web-based application that allows users to search for recipes based on ingredients they have. It provides step-by-step cooking instructions, nutritional information, and images for a variety of dishes.
@@ -37,7 +34,6 @@ Recipe Finder is a web-based application that allows users to search for recipes
 5. Open the browser and navigate to:
    ```
    http://localhost:3000
-   ```
 
 ## 📷 Screenshots
 (Add screenshots of your application here)
@@ -68,3 +64,4 @@ Made with ❤️ by [Hemanth](https://github.com/hemanthnaika)
 ```
 
 Let me know if you need modifications or additional details! 🚀
+ 
