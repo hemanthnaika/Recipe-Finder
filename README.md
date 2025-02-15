@@ -36,8 +36,9 @@ Recipe Finder is a web-based application that allows users to search for recipes
    http://localhost:3000
 
 ## 📷 Screenshots
-![Recipe Finder UI]([https://github.com/hemanthnaika/Recipe-Finder/blob/master/public/Capture.PNG](https://github.com/hemanthnaika/Recipe-Finder/blob/master/public/Capture.PNG))
-![Recipe Finder UI]([https://github.com/hemanthnaika/Recipe-Finder/blob/master/public/image.png](https://github.com/hemanthnaika/Recipe-Finder/blob/master/public/image.png))
+<img src="https://github.com/hemanthnaika/Recipe-Finder/blob/master/public/Capture.PNG" alt="Recipe Finder UI" width="100%">
+<img src="https://github.com/hemanthnaika/Recipe-Finder/blob/master/public/image.png" alt="Recipe Finder UI" width="100%">
+
 
 ## 📌 Future Enhancements
 - 📱 Mobile app version
@@ -64,5 +65,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 Made with ❤️ by [Hemanth](https://github.com/hemanthnaika)
 ```
 
-Let me know if you need modifications or additional details! 🚀
  
