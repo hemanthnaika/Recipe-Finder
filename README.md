@@ -25,7 +25,7 @@ Recipe Finder is a web-based application that allows users to search for recipes
    ```
 3. Set up environment variables:
    - Create a `.env` file in the root directory.
-   - Add API keys and database credentials.
+   - Add API keys.
 
 4. Start the development server:
    ```sh
